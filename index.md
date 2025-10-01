@@ -11,5 +11,7 @@ I have worked on a few small projects at the UConn Storrs campus that include ul
 While I have a strong background in high energy and optics research, I have other interests, such as a minor in **AstroPhysics**, and a background in **robotics**.
 
 Feel free to reach out with any questions or if you would like to connect:
+
 benjamin.schies@uconn.edu
+
 860-215-5930
