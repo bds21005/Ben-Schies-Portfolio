@@ -2,6 +2,7 @@
 title: "First Blog"
 date: 2025-09-30
 ---
+BLOG #1:
 
 WELCOME TO MY BLOG
 
