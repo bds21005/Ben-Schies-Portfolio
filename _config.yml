@@ -1,3 +1,2 @@
 theme: minima
 
-bundle exec jekyll build
