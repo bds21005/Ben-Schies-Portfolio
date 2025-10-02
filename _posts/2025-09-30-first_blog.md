@@ -1,5 +1,5 @@
 ---
-title: "Mysterious Job Applications"
+title: "First Blog"
 date: 2025-09-30
 ---
 
