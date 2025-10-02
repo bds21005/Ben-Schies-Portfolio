@@ -1,5 +1,5 @@
 ---
-title: Ben Schies
+title: "Ben Schies"
 ---
 
 A little about me: 
