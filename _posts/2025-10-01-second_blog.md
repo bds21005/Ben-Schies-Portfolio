@@ -1,5 +1,5 @@
 ---
-title: "First Updates"
+title: "Second Blog"
 date: 2025-10-01
 ---
 BLOG #2
