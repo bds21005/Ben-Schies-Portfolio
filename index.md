@@ -1,8 +1,7 @@
 ---
-title: "Ben Schies"
+title: "A Little About Me:"
 ---
 
-A little about me: 
 
 I am a **Senior UConn Physics student**, with a particular interest in **optics research**. I am interested in **acoustic effects on photons travelling through a system**. 
 
