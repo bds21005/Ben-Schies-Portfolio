@@ -15,4 +15,5 @@ Feel free to reach out with any questions or if you would like to connect:
 Benjamin.schies@uconn.edu
 
 860-215-5930
+
 https://github.com/bds21005/ben-schies-resume/blob/c3b887e3feaf49973b2aaf65e31c85fbd572d14e/circuit.setup.png
